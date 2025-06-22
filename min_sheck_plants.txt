@@ -1,0 +1,69 @@
+Lavender: 22563 / 0.25
+Nectarshade: 45125 / 0.75
+Nectarine: 35000 / 2.807
+Hive Fruit: 55955 / 7.59
+Celestiberry: 9025 / 1.9
+Moon Mango: 45125 / 14.25
+Blood Banana: 5415 / 1.42
+Moon Melon: 16245 / 7.6
+Carrot: 18 / 0.24
+Strawberry: 14 / 0.29
+Blueberry: 18 / 0.17
+Tomato:	27 / 0.44
+Cauliflower: 36 / 4.74
+Watermelon: 2708 / 7.3
+Green Apple: 271 / 2.85
+Avocado: 91 / 3.32
+Banana: 1805 / 1.42
+Pineapple: 1805 / 2.85
+Kiwi: 2482 / 3.5
+Bell Pepper: 4964 / 7.61
+Prickly Pear: 6319 / 6.65
+Loquat: 7220 / 6.17
+Feijoa: 27075 / 9.5
+Sugar Apple: 43320 / 8.55
+Crocus: 27075 / 0.285
+Succulent: 22563 / 4.75
+Violet Corn: 45125 / 2.85
+Bendboo:138988 / 17.09
+Cocovine:60166 / 13.3	
+Dragon Pepper:80000 / 5.69
+Rose:4513 / 0.95
+Foxglove:18050 / 1.9	
+Lilac:31588 / 2.846	
+Pink Lily:58663 / 5.699	
+Purple Dahlia:67688 / 11.4
+Sunflower:144000 / 15.65
+Papaya:903 / 2.86	
+Banana:1805 / 1.42	
+Passionfruit:3204 / 2.867	
+Soul Fruit:6994 / 23.75	
+Cursed Fruit:15000 / 22.9
+Pear:18050 / 2.85	
+Raspberry:90 / 0.71
+Pineapple:1805 / 2.85
+Peach:271 / 1.9
+Nightshade:3159 / 0.48
+Glowshroom:271 / 0.7
+Mint:4738 / 0.95
+Moonflower:8574 / 1.9
+Starfruit:13538 / 2.85	
+Moonglow:18050 / 6.65	
+Moon Blossom:60166 / 2.85
+Cranberry:1805 / 0.95	
+Durian:6317 / 7.6
+Eggplant:6769 / 4.75	
+Venus Fly Trap:40612 / 9.5
+Lotus:15343 / 18.99	
+Chocolate Carrot:9960 / 0.262	
+Red Lollipop:45102 / 3.799	
+Candy Sunflower:72200 / 1.428
+Easter Egg:2256 / 2.85
+Candy Blossom:90250 / 2.85
+Manuka Flower:22563 / 0.289	
+Bee Balm:16245 / 0.94
+Dandelion:45125 / 3.79	
+Nectar Thorn:30083 / 5.76	
+Lumira:76713 / 5.69
+Honeysuckle:90250 / 11.4
+Suncoil:72200 / 9.5

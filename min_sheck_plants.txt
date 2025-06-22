@@ -67,3 +67,4 @@ Nectar Thorn:30083 / 5.76
 Lumira:76713 / 5.69
 Honeysuckle:90250 / 11.4
 Suncoil:72200 / 9.5
+Coconut:400 / 9.8
